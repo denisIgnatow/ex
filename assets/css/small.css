@@ -1,0 +1,45 @@
+header .wrapper {
+  align-items: flex-start;
+  padding-top: 15px;
+}
+
+.header__logo {
+  width: 70px;
+}
+
+.header__nav {
+  /* /* flex-direction: column; */
+  /* align-items: flex-end; */
+  /* width: 200px;  */
+}
+
+.header__link {
+  margin: 0 3px;
+  font-size: 8px;
+  text-decoration: none;
+}
+
+.header__link:hover {
+  text-decoration: underline;
+}
+
+.header__link img {
+  width: 10px;
+}
+
+.text-content {
+  margin-left: 23px;
+}
+
+.address__phone {
+  font-size: 14px;
+}
+
+.display_none {
+  display: inline;
+}
+
+footer {
+  position: static;
+  margin-top: 30px;
+}
